@@ -1,0 +1,29 @@
+/* Colors:
+
+    Main:   8E58FF (roxo)
+            D9D6FE (roxo 2)      
+*/
+
+.nav{
+   height: 3vh; 
+   color: rgb(77, 38, 38);
+}
+
+.navtext{
+    color: #8e58ff;
+    font-family: 'Jost', sans-serif;
+    font-weight: bold;
+    font-size: 4vh;
+    float: flex;
+    margin-left: 2vw;
+    margin-top: 0vh;
+    margin-right: 5vw;
+}
+
+.logonav{
+    float: flex;
+    position: absolute;
+}
+
+.logoterra{
+}
