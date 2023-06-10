@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wrapper>
+    <faculdade codigo="1">
+      <nome>Matemática</nome>
+      <descricao>Lorem ipsum dolor sit amet</descricao>
+      <atuacao>Lorem ipsum dolor sit amet</atuacao>
+      <perfil>Lorem ipsum dolor sit amet</perfil>
+      <salario>Lorem ipsum dolor sit amet</salario>
+    </faculdade>
+    <faculdade codigo="2">
+      <nome>Química</nome>
+      <descricao>Lorem ipsum dolor sit amet</descricao>
+      <atuacao>Lorem ipsum dolor sit amet</atuacao>
+      <perfil>Lorem ipsum dolor sit amet</perfil>
+      <salario>Lorem ipsum dolor sit amet</salario>
+    </faculdade>
+    <faculdade codigo="3">
+      <nome>Computação</nome>
+      <descricao>Lorem ipsum dolor sit amet</descricao>
+      <atuacao>Lorem ipsum dolor sit amet</atuacao>
+      <perfil>Lorem ipsum dolor sit amet</perfil>
+      <salario>Lorem ipsum dolor sit amet</salario>
+    </faculdade>
+    <faculdade codigo="4">
+      <nome>Biotecnologia</nome>
+      <descricao>Lorem ipsum dolor sit amet</descricao>
+      <atuacao>Lorem ipsum dolor sit amet</atuacao>
+      <perfil>Lorem ipsum dolor sit amet</perfil>
+      <salario>Lorem ipsum dolor sit amet</salario>
+    </faculdade>
+    <faculdade codigo="5">
+      <nome>Física</nome>
+      <descricao>Lorem ipsum dolor sit amet</descricao>
+      <atuacao>Lorem ipsum dolor sit amet</atuacao>
+      <perfil>Lorem ipsum dolor sit amet</perfil>
+      <salario>Lorem ipsum dolor sit amet</salario>
+    </faculdade>
+    <faculdade codigo="6">
+      <nome>Economia</nome>
+      <descricao>Lorem ipsum dolor sit amet</descricao>
+      <atuacao>Lorem ipsum dolor sit amet</atuacao>
+      <perfil>Lorem ipsum dolor sit amet</perfil>
+      <salario>Lorem ipsum dolor sit amet</salario>
+  </faculdade>
+</wrapper>

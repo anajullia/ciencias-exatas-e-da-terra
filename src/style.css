@@ -1,29 +1,23 @@
-/* Colors:
-
-    Main:   8E58FF (roxo)
-            D9D6FE (roxo 2)      
-*/
-
-.nav{
-   height: 3vh; 
-   color: rgb(77, 38, 38);
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-.navtext{
-    color: #8e58ff;
-    font-family: 'Jost', sans-serif;
-    font-weight: bold;
-    font-size: 4vh;
-    float: flex;
-    margin-left: 2vw;
-    margin-top: 0vh;
-    margin-right: 5vw;
+.faculdade {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f5f5f5;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.logonav{
-    float: flex;
-    position: absolute;
+.faculdade h2 {
+    color: #333;
 }
 
-.logoterra{
+.faculdade p {
+    color: #666;
 }
